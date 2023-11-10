@@ -1,0 +1,14 @@
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\bin\Debug\net8.0\ResaleCovEstimator.exe
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\bin\Debug\net8.0\ResaleCovEstimator.deps.json
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\bin\Debug\net8.0\ResaleCovEstimator.runtimeconfig.json
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\bin\Debug\net8.0\ResaleCovEstimator.dll
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\bin\Debug\net8.0\ResaleCovEstimator.pdb
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\obj\Debug\net8.0\ResaleCovEstimator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\obj\Debug\net8.0\ResaleCovEstimator.AssemblyInfoInputs.cache
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\obj\Debug\net8.0\ResaleCovEstimator.AssemblyInfo.cs
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\obj\Debug\net8.0\ResaleCovEstimator.csproj.CoreCompileInputs.cache
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\obj\Debug\net8.0\ResaleCovEstimator.dll
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\obj\Debug\net8.0\refint\ResaleCovEstimator.dll
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\obj\Debug\net8.0\ResaleCovEstimator.pdb
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\obj\Debug\net8.0\ResaleCovEstimator.genruntimeconfig.cache
+C:\Users\jus\Downloads\c# projects\ResaleCovEstimator\obj\Debug\net8.0\ref\ResaleCovEstimator.dll
